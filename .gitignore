@@ -1,0 +1,5 @@
+# Data Files.
+/data
+
+# Python Virtual Environment.
+/venv
